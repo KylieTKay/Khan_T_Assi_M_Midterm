@@ -1,6 +1,7 @@
 # Khan_T_Assi_M_Midterm
  Midterm in-class: Debate club
-# Project Name
+# Cats VS Dogs 
+![alt text](cats_vs_dogs.jpg "Logo Title Text 1")
 
 Team cat: Mirdan
 

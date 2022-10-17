@@ -5,8 +5,14 @@
 
 ## Which Pet Truly Makes for the Better Companion?
 ### Team cat: Mirdan Assi
-[description here]
 
+Cats are my favourite animal
+
+I like cats because they are funny and independent
+
+Cats are cute and clean unlike dogs.
+
+![alt text](img/cat.jpg "Logo Title Text 1")
 [quote]
 
 ### Team Dog: Taylor
@@ -18,7 +24,17 @@ Fur-Mom of 2 precious Doggos
 
 "Cats are cute, but can they love you like dogs?
 
-## Installation
+### Team cat: Mirdan Assi
+
+Cats can love their owners more than dogs 
+
+Cats always want to be pet by their owners
+
+Moreover, cats do not ask their owners to take them for walks. They go for walks by themselves and come back home again. 
+
+
+
+![alt text](img/petting_cat.jpg "Logo Title Text 1")
 
 TODO: Describe the installation process
 

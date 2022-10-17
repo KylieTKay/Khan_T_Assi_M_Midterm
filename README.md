@@ -1,10 +1,22 @@
-# Khan_T_Assi_M_Midterm
- Midterm in-class: Debate club
+# DEBATE CLUB
+ ## An Age Old Debate
 # Cats VS Dogs 
-![alt text](cats_vs_dogs.jpg "Logo Title Text 1")
+![alt text](img/cats_vs_dogs.jpg "Logo Title Text 1")
 
-Team cat: Mirdan
+## Which Pet Truly Makes for the Better Companion?
+### Team cat: Mirdan Assi
+[description here]
 
+[quote]
+
+### Team Dog: Taylor
+![alt text](img/puppy_eyes.jpg "Logo Title Text 1")
+
+Life-long dog lover and advocate.
+
+Fur-Mom of 2 precious Doggos
+
+"Cats are cute, but can they love you like dogs?
 
 ## Installation
 
